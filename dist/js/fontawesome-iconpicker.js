@@ -5300,6 +5300,9 @@
         }, {
             title: "fab fa-zhihu",
             searchTerms: []
+        }, {
+            title: "fa-brands fa-tiktok",
+            searchTerms: ["tiktok"]
         } ]
     });
 });
